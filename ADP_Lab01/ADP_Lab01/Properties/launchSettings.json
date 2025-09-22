@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "DebugRoslynAnalyzers": {
+      "commandName": "DebugRoslynComponent",
+      "targetProject": "../ADP_Lab01.Sample/ADP_Lab01.Sample.csproj"
+    }
+  }
+}
